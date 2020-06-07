@@ -7,6 +7,7 @@ For this project, I will use a dataset made public by the Machine Learning Group
 For the implementation, I mainly used the libraries numpy, pandas, matplotlib, seaborn, scikit-learn.
 
 **Workflow followed**
+
 The process I followed has generally been:
 
 * Data loading
